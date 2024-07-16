@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fullbackup-content>
+    <include domain="file" path="."/>
+    <include domain="database" path="."/>
+    <include domain="sharedpref" path="."/>
+    <include domain="external" path="Android/data/com.example.kointest/files"/>
+</fullbackup-content>
